@@ -1,2 +1,3 @@
 # Protezione-truffe-telefoniche
-Salvatevi dalle truffe grazie a questo software di mia creazione!
+Quante volte vi capita di ricevere chiamate sospette dove vi chiedono password, PIN e altro che può mettere a rischio i vostri risparmi, e soprattutto quelli dei vostri cari? Ve lo dico io, tantissime volte.. ma con questo software vi basterà aprire il programma, scrivere il numero di chi vi sta chiamando ed in un attimo il software vi dirà se il numero è una potenziale truffa o meno, all'interno troverete anche dei bottoni con ciò che potrebbero dirvi i truffatori e di conseguenza come agire.
+Spero che lo troviate molto utile, e soprattutto che possa aiutare i vostri cari come zii e nonni anziani che sono molto più esposti a questi pericoli!
